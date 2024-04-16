@@ -1,0 +1,8 @@
+com/studio/rain/facade/StatisticsFacade.class
+com/studio/rain/controller/MainController.class
+com/studio/rain/service/FileProcessorService.class
+com/studio/rain/entity/EntryStatistic.class
+com/studio/rain/service/GenerateDefaultJSON.class
+com/studio/rain/service/CalculateStatisticsService.class
+com/studio/rain/Main.class
+com/studio/rain/service/XMLStatisticsWriter.class
